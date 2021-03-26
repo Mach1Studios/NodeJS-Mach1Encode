@@ -1,0 +1,27 @@
+{
+  "name": "mach1spatial-Encode",
+  "version": "1.0.0",
+  "description": "Mach1 Spatial NodeJS module for Mach1Encode API",
+  "main": "m1EncodeFunctions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mach1Studios/NodeJS-Mach1Encode.git"
+  },
+  "keywords": [
+    "Mach1",
+    "Spatial",
+    "Mach1Spatial",
+    "SpatialAudio",
+    "Spatial",
+    "Audio"
+  ],
+  "author": "Mach1",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/Mach1Studios/NodeJS-Mach1Encode/issues"
+  },
+  "homepage": "https://github.com/Mach1Studios/NodeJS-Mach1Encode#readme"
+}
